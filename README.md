@@ -8,6 +8,7 @@ va_start, va_arg, va_copy, va_end.
 ## Usage
 
 My ft_printf can convert 
+
 • %c -> single character
 
 • %s -> string
